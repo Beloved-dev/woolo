@@ -9,7 +9,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <html">
 <?php //include VIEWPATH.'includes_frontEnd/Header.php'; ?>
 <head>
-<title>PlusBusiness</title>
+<title>WOOLO</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" href="<?= base_url() ?>/templateFrontEnd/layout/styles/layout.css" type="text/css" />
 <script type="text/javascript" src="<?= base_url() ?>/templateFrontEnd/layout/scripts/jquery.min.js"></script>
@@ -59,15 +59,15 @@ Licence URI: http://www.os-templates.com/template-terms
         </li>
         <li><img src="<?= base_url() ?>/templateFrontEnd/images/demo/2.gif" alt="" />
           <div class="floater">
-            <h2>Cursus penati saccum ut curabitur nulla.</h2>
-            <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
+            <h2>Welcome !</h2>
+            <p>Welcome to WORLD OF LOVE (WOOLO), where compassion knows no bounds. We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
             <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
           </div>
         </li>
         <li><img src="<?= base_url() ?>/templateFrontEnd/images/demo/3.gif" alt="" />
           <div class="floater">
-            <h2>Cursus penati saccum ut curabitur nulla.</h2>
-            <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
+            <h2>Welcome !</h2>
+            <p>Welcome to WORLD OF LOVE (WOOLO), where compassion knows no bounds. We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
             <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
           </div>
         </li>
@@ -82,18 +82,18 @@ Licence URI: http://www.os-templates.com/template-terms
     <div class="homepage">
       <ul>
         <li>
-          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Nullamlacus dui ipsum conseque loborttis</h2>
-          <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Welcome</h2>
+          <p>Welcome to WORLD OF LOVE (WOOLO), where compassion knows no bounds. We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
           <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
         </li>
         <li>
-          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Nullamlacus dui ipsum conseque loborttis</h2>
-          <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Welcome</h2>
+          <p>Welcome to WORLD OF LOVE (WOOLO), where compassion knows no bounds. We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
           <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
         </li>
         <li class="last">
-          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Nullamlacus dui ipsum conseque loborttis</h2>
-          <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+          <h2><img src="<?= base_url() ?>/templateFrontEnd/images/demo/60x60.gif" alt="" />Welcome</h2>
+          <p>Welcome to WORLD OF LOVE (WOOLO), where compassion knows no bounds. We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
           <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
         </li>
       </ul>
@@ -105,35 +105,23 @@ Licence URI: http://www.os-templates.com/template-terms
 <div class="wrapper col4">
   <div id="footer">
     <div class="box1">
-      <h2>A Little Company Information !</h2>
+      <h2>About us</h2>
       <img class="imgl" src="<?= base_url() ?>/templateFrontEnd/images/demo/imgl.gif" alt="" />
-      <p>Morbitincidunt maurisque eros molest nunc anteget sed vel lacus mus semper. Anterdumnullam interdum eros dui urna consequam ac nisl nullam ligula vestassa. Condimentumfelis et amet tellent quisquet a leo lacus nec augue</p>
+      <p> We are dedicated to empowering and supporting vulnerable individuals, including the elderly, handicapped, orphans, and albinos. Join us in spreading love and making a meaningful impact on lives in need</p>
       <p>Portortornec condimenterdum eget consectetuer condis.</p>
     </div>
     <div class="box contactdetails">
       <h2>Our Contact Details !</h2>
       <ul>
         <li>Company Name</li>
-        <li>Street Name &amp; Number</li>
-        <li>Town</li>
-        <li>Postcode/Zip</li>
-        <li>Tel: xxxxx xxxxxxxxxx</li>
-        <li>Fax: xxxxx xxxxxxxxxx</li>
-        <li>Email: info@domain.com</li>
-        <li class="last">LinkedIn: <a href="#">Company Profile</a></li>
+        
       </ul>
     </div>
     <div class="box flickrbox">
-      <h2>Latest Flickr Images !</h2>
+      <h2>Donate !</h2>
       <div class="wrap">
         <div class="fix"></div>
-        <div class="flickr_badge_image" id="flickr_badge_image1"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="flickr_badge_image" id="flickr_badge_image2"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="flickr_badge_image" id="flickr_badge_image3"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="flickr_badge_image" id="flickr_badge_image4"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="flickr_badge_image" id="flickr_badge_image5"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="flickr_badge_image" id="flickr_badge_image6"><a href="#"><img src="<?= base_url() ?>/templateFrontEnd/images/demo/80x80.gif" alt="" /></a></div>
-        <div class="fix"></div>
+        hhh
       </div>
     </div>
     <br class="clear" />
@@ -142,8 +130,8 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ####################################################################################################### -->
 <div class="wrapper col5">
   <div id="copyright">
-    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">woolo.bi</a></p>
+    <p class="fl_right">made by  Pacifique & Eraste</p>
     <br class="clear" />
   </div>
 </div>
